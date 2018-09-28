@@ -10,7 +10,7 @@ Note that this code was inspired by [this stackoverflow answer](https://stackove
 
 In order to use this code, first make sure prerequisite python3 packages are installed (see below). Next make a clone of this repository and open a terminal in this folder and type the following:
 
-> python3 Download_local-R-package
+> python3 Download_local-R-package.py
 
 Text will appear in the terminal asking "What are the package names?". Type the packages separated by a comma and press the ENTER key. 
 
