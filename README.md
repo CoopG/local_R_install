@@ -31,4 +31,4 @@ Either install these or, if you are less familiar with python, open a terminal i
 
 ## Acknowledgements
 
-With thanks to **Dan Carpenter** for his support in developing the code to download from html. -- [dansebcar](https://github.com/dansebcar)
+With thanks to **[Dan Carpenter](https://github.com/dansebcar)** for his support in developing the code to download from html.
