@@ -21,14 +21,11 @@ The necessary R code to install these packages will then be outputted. Simply op
 
 ### Prerequisites
 
-This code is dependent on having python3 and pip3 installed and the following python3 packages: requests, shutil, re, os. 
+This code is dependent on having python3 and pip3 installed and the following python3 packages: requests. 
 Either install these or, if you are less familiar with python, open a terminal in the repository folder and type the following:
 
 > bash install_dependencies.sh
 
 ## Authors
 * **Graham Cooper** -- [CoopG](https://github.com/CoopG)
-
-## Acknowledgements
-
-With thanks to **[Dan Carpenter](https://github.com/dansebcar)** for his support in developing the code to download from html.
+* **Dan Carpenter** -- [dansebcar](https://github.com/dansebcar)
